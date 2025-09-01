@@ -17,7 +17,7 @@ Perfect for engineers, analysts, and executives who need fast, accurate summarie
    Provide a screenshot of a dashboard (e.g., energy monitoring, telecom analytics).
 
 2. **🔍 AI Researcher Analyzes It**  
-   Using **Google Gemini Vision**, the `Image Data Researcher` agent:
+    `Image Data Researcher` agent:
    - Identifies charts, graphs, and UI elements
    - Extracts key metrics (e.g., load shedding hours, solar production, battery levels)
    - Summarizes 10 critical insights
