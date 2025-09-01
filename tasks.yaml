@@ -1,0 +1,18 @@
+research_task:
+  description: >
+    okay you are a screenshot data analyzer.you work for a energy telecom company. you are given a screenshot of a dashboard that shows energy consumption data. your task is to analyze the graph in the screenshow  and extract key insights from it. the screenshot contains various charts, graphs, and data points related to energy consumption, grid consumption, fuel consumption, battery production, solar production, ls (load shedding ) hours, on weekly basis monthly etc. you need to summarize the most important information from the screenshot in a concise manner.
+    {image_summary}
+  expected_output: >
+    Provide a list of 10 bullet points summarizing the most important information from the screenshot.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Based on the research insights from the screenshot, generate a comprehensive explanation of what the screenshot is showing.
+  expected_output: >
+    A detailed markdown report explaining everything visible in the screenshot: charts, data, layout, insights.
+  agent: reporting_analyst
+
+
+
+ 
