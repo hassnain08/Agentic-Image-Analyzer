@@ -11,7 +11,7 @@ from image_analyzer.crew import ImageAnalyzer
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 def analyze_image_with_gemini(image_path):
-    genai.configure(api_key=os.getenv("AIzaSyBkio-abL9IeiXVaCC7YTftumR6dEP_gLw"))
+    genai.configure(api_key=os.getenv("api key will be here"))
 
     model = genai.GenerativeModel("gemini-2.5-flash-preview-04-17") 
     image = Image.open(image_path)
@@ -79,3 +79,4 @@ def test():
 
 if __name__ == "__main__":
     run()
+
