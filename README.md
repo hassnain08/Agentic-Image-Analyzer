@@ -42,3 +42,26 @@ Perfect for engineers, analysts, and executives who need fast, accurate summarie
 - **Output**: Markdown reports with optional CLI tools
 
 ---
+
+Real-World Use Cases:
+1. Energy Management
+Monitor daily energy consumption, solar production, and battery usage
+Detect anomalies (e.g., unexpected load shedding)
+Generate daily summary reports for operations teams
+
+2. Telecom Network Monitoring
+Analyze network uptime, latency, data throughput
+Automate field engineer reports from mobile app screenshots
+Flag performance drops in real time
+
+3. IoT & Smart Grids
+Parse dashboards from SCADA systems or IoT platforms
+Convert visual data into structured logs for further analysis
+
+4. Executive Dashboards
+Turn complex KPI dashboards into executive summaries
+Enable non-technical leaders to understand technical data
+
+5. Remote Site Diagnostics
+Field technicians upload screenshots → get instant AI analysis
+Reduce dependency on central engineers
