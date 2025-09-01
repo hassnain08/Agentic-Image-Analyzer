@@ -6,7 +6,9 @@
 
 > 🚀 Automatically analyze dashboard screenshots and generate insightful reports — no manual interpretation needed.
 
-An Intelligent AI Agents crew that sees, understands, and explains by analyzing images and, transforms them into structured insights and detailed reports.
+An Intelligent AI Agents crew that sees, understands, and explains by analyzing images and, transforms them into structured insights and detailed reports. No manual analysis needed.
+
+Perfect for engineers, analysts, and executives who need fast, accurate summaries of dashboard data.
 ---
 
 ## 🧠 How It Works
